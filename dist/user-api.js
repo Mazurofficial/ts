@@ -20,3 +20,4 @@ const admin1 = {
     lastVisited: new Date(2022, 11, 9),
     role: 'administrator '
 };
+login(admin1);
